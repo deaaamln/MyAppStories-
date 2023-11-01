@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis historias de aplicaciones</string>
+    <string name="SplashScreen1">Icono SplashScreen 1</string>
+    <string name="SplashScreen2">Icono SplashScreen 2</string>
+    <string name="story">HISTORIAS</string>
+    <string name="description">muestra una lista de historias de amigos que están estudiando y gradándose de Dicoding</string>
+    <string name="addStory">Agrega tu historia</string>
+    <string name="description2">agrega y sube tus historias interesantes mientras aprendes en Dicoding</string>
+    <string name="title_login">¿estás listo para compartir tu historia?</string>
+    <string name="message_login">Confirma tu correo electrónico e ingresa tu contraseña</string>
+    <string name="required_field_name">El nombre del campo debe estar completado</string>
+    <string name="required_field_email">El campo correo electrónico debe estar completado</string>
+    <string name="required_field_password">El campo contraseña debe ser completado</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="enter_email">Ingrese su correo electrónico</string>
+    <string name="enter_password">Ingrese su contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="message_register">¿Aún no tienes una cuenta?</string>
+    <string name="title_welcome_page">Bienvenido a Mi historia de aplicación</string>
+    <string name="title_register">Completa tus datos a continuación</string>
+    <string name="name">Nombre</string>
+    <string name="enter_name">Ingrese su nombre</string>
+    <string name="user_name">Nombre Usuario</string>
+    <string name="fab_add">Agregar historia</string>
+    <string name="detail_story">Historia detallada</string>
+
+    <string name="invalidEmail">Correo electrónico no válido</string>
+    <string name="error_name">El nombre no puede estar vacío</string>
+    <string name="error_password">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="retry">Inténtalo de nuevo</string>
+    <string name="desc">Escritorio</string>
+    <string name="image_detail">Imagen de detalle</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="upload">Subir</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="add_image">Agregar imagen</string>
+    <string name="input_image">Sube el archivo de imagen primero</string>
+    <string name="language">Idioma</string>
+    <string name="add_story">Agregar historia</string>
+    <string name="list_story">Historias de personas</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">ubicación</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satélite</string>
+    <string name="terrain_type">Terreno</string>
+    <string name="hybrid_type">Híbrida</string>
+    <string name="allow_permission">Por favor, permita esta cámara\n</string>
+    <string name="alert_title_login">¡Bienvenido a la aplicación Historias!</string>
+    <string name="alert_message_login">¡Vamos, comparte tu historia!</string>
+    <string name="alert_button_login">¡Empecemos!</string>
+    <string name="alert_title_register">¡Felicidades!</string>
+    <string name="alert_message_register">Su cuenta ha sido creada satisfactoriamente. ¡Inicie sesión para comenzar!</string>
+    <string name="alert_button_register">Bien, inicia sesión</string>
+</resources>

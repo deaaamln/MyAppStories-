@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App Stories</string>
+    <string name="SplashScreen1">Icône SplashScreen 1</string>
+    <string name="SplashScreen2">Icône SplashScreen 2</string>
+    <string name="story">HISTOIRES</string>
+    <string name="description">affiche une liste d\'histoires d\'amis qui étudient et obtiennent leur diplôme de Dicoding</string>
+    <string name="addStory">Ajoutez votre histoire</string>
+    <string name="description2">ajoutez et téléchargez vos histoires intéressantes tout en apprenant chez Dicoding</string>
+    <string name="title_login">êtes-vous prêt à partager votre histoire </string>
+    <string name="message_login">Veuillez confirmer votre email et saisir votre mot de passe</string>
+    <string name="required_field_name">Le nom du champ doit être renseigné</string>
+    <string name="required_field_email">Le champ email doit être rempli</string>
+    <string name="required_field_password">Le mot de passe du champ doit être renseigné</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="enter_email">Entrez votre e-mail</string>
+    <string name="enter_password">Entrez votre mot de passe</string>
+    <string name="register">S\'inscrire</string>
+    <string name="message_register">Vous n\'avez pas déjà de compte ?</string>
+    <string name="title_welcome_page">Bienvenue dans Mon histoire d\'application</string>
+    <string name="title_register">Complétez vos données ci-dessous</string>
+    <string name="name">Nom</string>
+    <string name="enter_name">Entrez votre nom</string>
+    <string name="user_name">Utilisateur Nama</string>
+    <string name="fab_add">Ajouter une histoire</string>
+    <string name="detail_story">Histoire détaillée</string>
+
+    <string name="invalidEmail">E-mail invalide</string>
+    <string name="error_name">Le nom ne peut pas être vide</string>
+    <string name="error_password">Le mot de passe doit comporter au moins 8 caractères</string>
+    <string name="retry">Réessayer</string>
+    <string name="desc">Description</string>
+    <string name="image_detail">Image détaillée</string>
+    <string name="logout">Déconnexion</string>
+    <string name="upload">Télécharger</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Caméra</string>
+    <string name="add_image">Ajouter une image</string>
+    <string name="input_image">Téléchargez d\'abord le fichier image</string>
+    <string name="language">Langue</string>
+    <string name="add_story">Ajouter une histoire</string>
+    <string name="list_story">Histoires des gens</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">emplacement</string>
+    <string name="normal_type">Normale</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybride</string>
+    <string name="allow_permission">Veuillez autoriser cette caméra\n</string>
+    <string name="alert_title_login">Bienvenue sur l\'application Histoires !</string>
+    <string name="alert_message_login">Allez, partagez votre histoire !</string>
+    <string name="alert_button_login">Commençons!</string>
+    <string name="alert_title_register">Toutes nos félicitations!</string>
+    <string name="alert_message_register">Votre compte à été créé avec succès. Veuillez vous connecter pour commencer !</string>
+    <string name="alert_button_register">OK, connectez-vous</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App Stories</string>
+    <string name="SplashScreen1">Ikon SplashScreen 1</string>
+    <string name="SplashScreen2">Ikon SplashScreen 2</string>
+    <string name="story">CERITA</string>
+    <string name="description">menampilkan daftar cerita teman yang sedang belajar dan lulus Dicoding</string>
+    <string name="addStory">Tambahkan Cerita Anda</string>
+    <string name="description2">tambah dan upload cerita menarikmu selama belajar di Dicoding</string>
+    <string name="title_login">apakah Anda siap untuk berbagi cerita?</string>
+    <string name="message_login">Harap konfirmasi email Anda dan masukkan kata sandi Anda</string>
+    <string name="required_field_name">Nama kolom harus diisi</string>
+    <string name="required_field_email">Email kolom harus diisi</string>
+    <string name="required_field_password">Kata sandi kolom harus diisi</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="enter_email">Masukkan Email Anda</string>
+    <string name="enter_password">Masukkan Kata Sandi Anda</string>
+    <string name="register">Daftar</string>
+    <string name="message_register">Belum punya akun?</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Cerita Saya</string>
+    <string name="title_register">Lengkapi data Anda di bawah</string>
+    <string name="name">Nama</string>
+    <string name="enter_name">Masukkan nama Anda</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="fab_add">Tambahkan Cerita</string>
+    <string name="detail_story">Detail Cerita</string>
+
+    <string name="invalidEmail">Email Tidak Valid</string>
+    <string name="error_name">Nama tidak boleh kosong</string>
+    <string name="error_password">Password minimal harus 8 karakter</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="desc">Deskripsi</string>
+    <string name="image_detail">Detail Gambar</string>
+    <string name="logout">Keluar</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="add_image">Tambahkan Gambar</string>
+    <string name="input_image">Upload file gambar terlebih dahulu</string>
+    <string name="language">Bahasa</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="list_story">Cerita Orang</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">lokasi</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Medan</string>
+    <string name="hybrid_type">Hibrid</string>
+    <string name="allow_permission">Harap Izinkan Kamera ini\n</string>
+    <string name="alert_title_login">Selamat datang di Aplikasi Cerita!</string>
+    <string name="alert_message_login">Ayo, bagikan ceritamu!</string>
+    <string name="alert_button_login">Ayo mulai!</string>
+    <string name="alert_title_register">Selamat!</string>
+    <string name="alert_message_register">Akun anda telah berhasil dibuat. Silakan masuk untuk memulai!</string>
+    <string name="alert_button_register">Oke, Masuk</string>
+</resources>
